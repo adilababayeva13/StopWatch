@@ -1,0 +1,32 @@
+body{
+    background-image:radial-gradient(black,green);
+}
+.container{
+    margin-left:35%;
+    margin-top: 0%;
+
+}
+span ,p{
+    font-size: 200px;
+    color: rgb(214, 119, 10);
+    margin-top: 1%;
+
+}
+button{
+    width: 100px;
+    background-color: yellow;
+    border: yellow;
+    margin-top: 0px;
+    height: 35px;
+    margin-top: 0%;
+    margin-right: 4px;
+    margin-left: 9px;
+}
+#lap{
+    padding: 20px;
+    margin-left:5%;
+    font-size: 100px;
+    box-sizing: border-box;
+    max-width: 200px;
+    min-width: 200px;
+}
